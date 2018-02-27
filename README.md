@@ -8,7 +8,7 @@ Fork it - Build - Export - components for React
 ## Installation
 
 ```
-cd [parent project dir]
+$ cd [parent project dir]
 $ npm link [path of component library]
 ```
 For auto updation on change
